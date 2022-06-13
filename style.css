@@ -252,10 +252,12 @@ span
 .anuncio
 {
     position: absolute;
-    width: 100%;
+    width: 80.2%;
     height: 240px;
-    background-image: url(./2661572.jpg);
     background-size: center;
+    border-bottom: solid 1px #ff0000;
+    border-right: solid 1px #ff0000;
+    margin-left: 19.8%;
 }
 .imglogo
 {
